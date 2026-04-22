@@ -11,7 +11,7 @@ This chart is analytical because it focuses on the dataset itself rather than on
 
 ## Data source
 Seattle Open Data – City of Seattle Wage Data  
-[Paste your dataset link here]
+[https://data.seattle.gov/City-Administration/City-of-Seattle-Wage-Data/2khk-5ukd/about_data]
 
 ## Image of Visualization
 ![Flourish 2 chart](flourish2-chart.png)
